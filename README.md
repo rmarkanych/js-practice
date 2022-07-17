@@ -1,1 +1,1 @@
-# js-practice
+# ropository for practice
